@@ -235,9 +235,8 @@
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
             <version>${poi.version}</version>
-        </dependency>
-        
-		<dependency>
+        </dependency> 
+		<!-- <dependency>
 			<groupId>com.baidu</groupId>
 			<artifactId>ueditor</artifactId>
 			<version>1.1.1</version>
@@ -256,8 +255,7 @@
 			<groupId>org.comet4j</groupId>
 			<artifactId>comet4j</artifactId>
 			<version>0.1.8</version>
-		</dependency>  
-
+		</dependency>   -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
