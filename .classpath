@@ -55,5 +55,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="E:/repositoryPt37/org/comet4j/comet4j/0.1.8/comet4j-0.1.8.jar"/>
+	<classpathentry kind="lib" path="E:/repositoryPt37/com/baidu/ueditor/1.1.1/ueditor-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/repositoryPt37/org/snaker/snaker-core/1.6.6/snaker-core-1.6.6.jar"/>
+	<classpathentry kind="lib" path="E:/repositoryPt37/com/mixsmart/mixsmart-utils/2.0.5/mixsmart-utils-2.0.5.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
